@@ -1,0 +1,40 @@
+body{
+    background-color: burlywood;
+ }
+
+ body #father{
+    background-color: darkgoldenrod;
+ }
+ /* Fila 1 */
+ body #fila1{
+    height: 40vh;
+    background-color: cornflowerblue;
+    width: 100%;
+    display: flex;
+ }
+ body #fila1 #columna1{
+     width: 50%;
+     height: 40vh;
+     background-color: green;
+ }
+ body #fila1 #columna2{
+    width: 50%;
+    height: 40vh;
+    background-color: blue;
+}
+ /* Fila2 */
+ body #fila2{
+    height: 40vh;
+    background-color:blueviolet;
+    display: flex;
+ }
+
+ Body #fila2 #columna3,#columna4,#columna5{
+    height: 40vh;
+    width: 33.33%;
+ }
+ body #fila2 #columna3{
+    background-color: chartreuse;
+ }
+ body #fila2 #columna4
+ 
